@@ -5,10 +5,14 @@ See [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubern
 
 Here, we will be focusing on Kubernetes infrastructure and architecture to support on-premise orchestration of [Awesome AI on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) types of workloads.
 
+---
+
 Some Reference Info:
 
 - [Kubernetes](http://kubernetes.io/)
 - [Docker](https://www.docker.com/)
+- [CNCF](https://www.cncf.io/)
+- [CNCF Projects](https://landscape.cncf.io/)
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Awesome Helm](https://github.com/cdwv/awesome-helm)
 - [Awesome Operators](https://github.com/operator-framework/awesome-operators)
@@ -25,7 +29,9 @@ Some Reference Info:
 - [Brigade](https://brigade.sh/)
 - [ksonnet](https://ksonnet.io/)
 
+---
 
+**more to come...**
 
 
 
